@@ -3,6 +3,29 @@
 <head>
 <meta charset="utf-8">
 
+	<script language="JavaScript">
+	<!--
+	var password="";
+		password=prompt('请输入密码 (你是谁呀):','');
+		
+        if (password == '陈丽双')   
+		{alert("臭猪猪你来啦！！!"); }
+		else if (password == '臭小孩')   
+		{alert("臭猪猪你来啦！！!"); }
+		else if (password == '小猪猪')   
+		{alert("臭猪猪你来啦！！!"); }
+		else if (password == '臭猪猪')   
+		{alert("臭猪猪你来啦！！!"); }
+		else if (password != '臭猪猪')  
+		{alert("不是臭小孩的话\n只给你康康!"); } 
+		else if (password != '小猪猪')  
+		{alert("不是臭小孩的话\n只给你康康!"); } 
+		else if (password != '臭小孩')  
+		{alert("不是臭小孩的话\n只给你康康!"); } 
+		else if (password != '陈丽双')  
+		{alert("不是臭小孩的话\n只给你康康!"); } 
+	-->
+	</script>
 </head>	
 
 <style>
@@ -51,7 +74,7 @@
             text-decoration: none;
             text-align: center;
             line-height: 60px;
-            color: #00000;
+            color: black;
         }
         .head-nav-con .drop-down {
             position: relative;
@@ -126,8 +149,7 @@
 					
 					
 					
-                        </ul>
-                    </li>
+                       
 
                 </ul>
             </div>
@@ -159,5 +181,3 @@
 <font size="6" face="Verdana" color="black">
 <h3 align="center"> <strong>臭猪猪！<br/>我终于做完了这第一个网站。<br/>这应该是我在这个无聊又冗长的假期里面干的第一件有意思的事情。<br/>虽然我只写了其中三个页面，<br/>但是接下来的页面我会慢慢慢慢的更新上去的！<br/>爱你哦！</strong></h3>
 
-</body>
-</html>
