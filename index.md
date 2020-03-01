@@ -1,32 +1,8 @@
-<!doctype html>
+
 <html>
 <head>
-<embed src="music/Yuna,Usher - Crush.mp3" hidden="false" width=300 height=45 type=audio/mpeg autostart="true" loop="true">
 <meta charset="utf-8">
 
-	<script language="JavaScript">
-	<!--
-	var password="";
-		password=prompt('请输入密码 (你是谁呀):','');
-		
-        if (password == '陈丽双')   
-		{alert("臭猪猪你来啦！！!"); }
-		else if (password == '臭小孩')   
-		{alert("臭猪猪你来啦！！!"); }
-		else if (password == '小猪猪')   
-		{alert("臭猪猪你来啦！！!"); }
-		else if (password == '臭猪猪')   
-		{alert("臭猪猪你来啦！！!"); }
-		else if (password != '臭猪猪')  
-		{alert("不是臭小孩的话\n只给你康康!"); } 
-		else if (password != '小猪猪')  
-		{alert("不是臭小孩的话\n只给你康康!"); } 
-		else if (password != '臭小孩')  
-		{alert("不是臭小孩的话\n只给你康康!"); } 
-		else if (password != '陈丽双')  
-		{alert("不是臭小孩的话\n只给你康康!"); } 
-	-->
-	</script>
 </head>	
 
 <style>
@@ -57,12 +33,12 @@
             height: 60px;
         }
         .head-nav-con {
-            width: 1200px;
+            width: 800px;
             height: 60px;
-            margin: auto;
+            margin: left;
         }
         .head-nav-con ul li {
-            width: 170px;
+            width: 120px;
             float: left;
             font-size: 20px;
             text-align: center;
@@ -75,7 +51,7 @@
             text-decoration: none;
             text-align: center;
             line-height: 60px;
-            color: blanchedalmond;
+            color: #00000;
         }
         .head-nav-con .drop-down {
             position: relative;
@@ -122,18 +98,18 @@
                     </li>
                     <li class="drop-down"><a href="#">小计划</a>
                         <ul class="drop-down-content">
-                            <li><a href="../露营计划/露营计划.html">露营计划</a></li>
+                            <li><a href="露营计划.html">露营计划</a></li>
                             <li><a href="#">考研计划</a></li>
-                            <li><a href="#">要养的膘</a></li>
-							<li><a href="../N件事情/N件事情.html">N件事情</a></li>
+							<li><a href="#">要养的膘</a></li>
+                            <li><a href="N件事情.html">N件事情</a></li>
                             <li><a href="#">正在编辑中</a></li>
                         </ul>
                     </li>
 					<li class="drop-down"><a href="#">小快乐</a>
                         <ul class="drop-down-content">
-                            <li><a href="#">知乎上有趣的事情</a></li>
-                            <li><a href="#">微博上有趣的事情</a></li>
-                            <li><a href="#">生活中有趣的事情</a></li>
+                            <li><a href="#">知乎上</a></li>
+                            <li><a href="#">微博上</a></li>
+                            <li><a href="#">生活中</a></li>
                             <li><a href="#">甜甜的情话</a></li>
 							<li><a href="#">正在编辑中</a></li>
                         </ul>
@@ -165,7 +141,6 @@
     <style>
 	body
 	{
-		 background-image: url("background/earth.jpg");
 		 background-repeat:repeat;
 		 background-position:center;
 		 background-attachment:fixed;
@@ -178,58 +153,11 @@
 <title>Tiny Space</title>
 
 
-<h1 style="color: white"><center>
-<strong><br/><br/>初识<br/><br/><br/><br/></strong>
+<h1 style="color: black"><center>
+<strong><br/><br/>主页<br/><br/><br/><br/></strong>
 </center></h1>
-<font size="2" face="Verdana" color="white">
-<h3 align="right"> <strong> -------------如果以后有一天，小女孩和小男孩被生活抹去了棱角，<br/>变得平庸，一起为了茶米油盐而开始拌口角，<br/>那时候的我会记得起我们初识的这一天。<br/>摸摸猪头，说，走，咱们下馆子去。</strong></h3>
-<h3 align="right"><strong><br>
-  <br>
-  <br>
-  <br>
-	 <br>
-	 <br> <br> <br> <br>
-</strong> </h3>
-</font>
-<h2 style="color: white"><center>
-<strong>整个可见宇宙中有约400万亿亿个星系<br/><br/><br/><br/>在其中一个叫做太阳系的恒星系中<br/>有一颗蔚蓝色的星球</strong>
-</center></h2>
-<h2 style="color: white;"><center>
-<strong><br/><br/>在这个星球上<br/><br/><br/>两个陌生人相遇的概率是0.00487<br/>而两个人相爱的概率是0.000049<br/><br/><br/></strong>
-</center></h2>
-<p>&nbsp;</p>
-<center><img src="image/rongdong.jpg" width="350" height="250" alt=""/></center>
-<h3 style="color: white;"><center> 
-<strong><br/>故事发生在一个炫丽的溶洞下的一个大大的校园里<br/><br/><br/>那是一个喂球季<br/>平时在俱乐部绞尽脑汁迟到早退的同学<br/>都在企图用一个礼拜练就神功<br/><br/><br/></strong>
-</center></h3>
-<font size="2" face="Verdana" color="white">
-<h2 style="height:100px"><center>那个，你好<br/></center></h2>
-<h2><center>我听说你乒乓球很好。然后我想让你在我考试的时候陪打一下可以吗</center></h2>
-<h2 style="height:150px"><center>可以有偿，或者请你吃饭，喝奶茶还是什么的都可以哦</center></h2>
-<h2 style="height:150px"><center>可以的哦<br/></center></h2>
-<h2><center>这是一个愉快的周五晚上<br/>大男孩和往常一样和远在天边的发小们在峡谷中送人头<br/>那时候的他根本不相信一见钟情<br/>小插曲并没有在他心里掀起一丝丝涟漪<br/>盛夏阳光的余热不断钻进空调间<br/>悄悄地蒸干那最后一丝丝荷尔蒙<br/><br/>大男孩并没有想到这是一个故事的开始<br/>他更加不会想到他即将获得一只温柔的</center></h2>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</font>
-<center><img src="image/u=2447507416,528048415&fm=26&gp=0.jpg" width="250" height="250" alt=""/></center>
-<font size="2" face="Verdana" color="white">
-<h2><center><br/><br/><br/><br/>那时候的大男孩刚刚窥见一丝丝现实的残酷<br/>他疲于应对学业、物创、球队和辩论队带来的烦恼</center></h2>
-<h2><center><br/>他是喜欢学到新知识的<br/>可是课程逼迫他写出形式主义的论文<br/><br/>他是喜欢嵌入式开发的<br/>可是老师要求他把得意作品变成比赛项目<br/><br/>他是喜欢以理服人的辩论的<br/>可是辩论队内部明争暗斗让他选择了退出<br/><br/>他是喜欢打乒乓球的<br/>可是为了应付比赛他每日都疲惫的训练着<br/><br/>life sucks eitherway<br/>大男孩并不快乐<br/>生活正在迫使他把自己柔软的内心包上一层坚硬的外壳</center></h2>
-<h2 style="height:100px"><center><br/>很快<br/>大男孩见到了这位陌生人<br/>她在大男孩去捡球的时候<br/>会睁大她那清澈的水汪汪的<br/>能融化石头的魔法大眼睛<br/><br>看着大男孩</center></h2>
-</font>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<center><img src="image/doujiyan.jpg" width="400" height="400" alt=""/></center>
-<font size="2" face="Verdana" color="white">
-<h3><center><br/>抱歉放错图了<br><br></center></h3>
-</font>
-<center><img src="image/dayanjingjian.jpg" width="250" height="120" alt=""/></center>
-<font size="2" face="Verdana" color="white">
-<h2><center><br/>每次用余光瞟到这双眼睛<br/>都会有一种触电的感觉<br/>大男孩害怕了<br/>害怕首先带来害羞<br/><br/>现在有两种选择方案<br/>第一<br/>不去看她<br/>低头<br/>看拍<br/>颠球<br/><br/>第二<br/>眼睛调下焦<br/>模糊一下<br/>这道吃人的目光<br/>可是在练球的时候<br/>大男孩的眼睛又不自觉的去看她<br/><br/>她好爱笑<br/>她会笑的很甜<br/>就像中药里面的<br/>甘草<br/><br/>大男孩的心的外面<br/>有什么东西裂开了<br/><br/>万物皆有裂痕<br/>那是光进来的地方<br/><br/>大男孩没有体验过这种感觉<br/>他本能的逃避这份美好<br/>他冷冰冰的说<br/>在球馆里面不要穿凉鞋<br/>小女孩轻轻的应了一声<br/>还是用她大大的眼睛看着他<br/>后来大男孩自己都忘记了怎么走出去的球馆<br/>可他还是记得<br/>那天以后<br/>生活这碗中药多了一贴甘草<br/>她没有那么腻<br/>没有那么明显<br/>却又那么隐隐约约<br/>足以抵挡一切苦涩的味道<br/><br/>大男孩没有想过产生故事<br/>可是小女孩还是开始了<br/>找大男孩聊天<br/>聊她的生活<br/>聊她害怕的蚯蚓<br/>聊一些开心的事情<br/>大男孩发现和她有好多<br/>共同话题啊<br/>她就像一个突然闯进的不速之客<br/>可是这个不速之客<br/>却给大男孩的生活带来了快乐<br/>带来了希望<br/>可越是这样<br/>大男孩越害怕<br/>不过他可聪明啦<br/>虽然他不会撩妹<br/>可是他拒绝的理由多啊<br/><br/>拜拜我去写论文啦<br/>我去练球啦<br/>我去敲代码啦<br/>我写作业啦<br/>。。。<br/><br/>要什么女朋友<br/>游戏它不香吗<br/><br/>终于有一天<br/>小女孩问出了那个灵魂拷问的问题<br/>你怎么这么多论文呀<br/><br/>大男孩开始慌了<br/>就像有人<br/>强行脱掉了他的外裤<br/>骄傲的他才不可能承认对一个<br/>刚认识不久的陌生人心动呢<br/><br/>聊着聊着<br/>他们开始聊到了<br/>男女之间的那些事儿<br/>大男孩骄傲的说<br/>要什么女朋友<br/>是书不好读了还是游戏不好打了<br/>小女孩说<br/>那我可不是这样想的<br/>我不排斥谈恋爱<br/>我只是在等待一个合适的人而已<br/><br/>总会等到的<br/>不要急<br/>新时代的独立女性<br/><br/>那天他们聊了好多好多<br/><br/>那天以后<br/>大男孩终于不用<br/>各种荒唐的理由去终止聊天了<br/><br/>可是期末考试最终还是到来了<br/>最后一次练球<br/>大男孩心想<br/>可能以后再也不会见面了吧<br/>心里甚至有一丝丝的不舍<br/>他这一次终于还是鼓起勇气<br/>直视了这个小女孩<br/>发现她长得<br/>好好看<br/>她的眼睛会透视自己的灵魂<br/>会烧穿自己伪装<br/>会散出炽热的光芒照耀自己的小心脏<br/>她矮矮小小的<br/>可能正好是最萌身高差哎<br/>可能踮起脚她刚好可以亲到我<br/>以后我们会有一个大眼睛的儿子<br/>。。。<br/>这个送给你<br/>小女孩打断了大男孩的幻想<br/><br/>这是一盒红双喜三星的球<br/><br/>你那天不是和我说<br/>学校都放养你们球队<br/>球都要自己买吗<br/>所以我就送你一盒球<br/>我在网上搜到这种球比较好<br/>送给你<br/><br/>大男孩傻了<br/>他大脑宕机了<br/>就像在草原上奔跑了一天的小狗见到了一汪清泉<br/>就像一只饥肠辘辘了一天的小狮子看到了一块孜然牛排<br/>就像他第一次明白<br/>什么叫心动<br/>大概就是在练球的时候<br/>满笑容都是她甜甜的脑子<br/>都是她小小的声影<br/>都是她勾人的声音<br/>都是她<br/>都是她<br/>是她<br/><br/>练球不知道怎么就结束了<br/>小女孩又对大男孩说<br/>你要去看看鳄龟吗<br/><br/>好滴呀<br/>大男孩哪有办法拒绝这双大眼睛呢<br/>他什么都不想的就和她一起去了<br/>放鳄龟的实验室<br/>就像一只什么都不想的狼<br/>跟着小红帽去了外婆家一样<br/><br/>他们一路上聊了好多好多<br/>那天虽然在户外<br/>可是夏天的余温正好<br/>风不紧不慢的抚摸着他们<br/>灌木丛中蝉在悠闲的伴唱<br/>路边的树在轻轻的伴舞<br/>教学楼在黑夜的怀抱下显得那么的静谧<br/>静静的守护者这两个小小的人儿<br/>星星从天上<br/>打着手电看下去<br/>可以看到一条池塘边的石板路上<br/>两个小人儿并排走在一起<br/>挨得不远也不近<br/>讲着小时候的宠物的故事<br/>太阳睡了<br/>月亮醒了<br/>她看到大男孩送小女孩<br/>进入了一幢凝固着时间和知识的房子里<br/>大男孩回头看着小女孩走上楼梯<br/>小女孩却没有再回头<br/>大男孩看着她一步步走上楼梯<br/>开始还能看到她的侧影<br/>然后是裤子<br/>然后是鞋子<br/>小女孩听了他的话<br/>那是一双运动鞋<br/>小男孩走出了图书馆<br/>他发现他的心跳的厉害<br/>他屏气凝神<br/>发现那层裂开的硬壳<br/>消失不见了<br/><br/>月亮在地球上的黑夜<br/>洒下了太阳送给她的光<br/>小女孩在大男孩的寒冬<br/>留下下了自己的火种
-</h2></font>
-<font size="2" face="Verdana" color="white"><h1>	
-<center><br/><br/><br/><br/><br/>I think I have a little crush on you<br/><br/><br><br><br/></center>
-</h1></font> 
+<font size="6" face="Verdana" color="black">
+<h3 align="center"> <strong>臭猪猪！<br/>我终于做完了这第一个网站。<br/>这应该是我在这个无聊又冗长的假期里面干的第一件有意思的事情。<br/>虽然我只写了其中三个页面，<br/>但是接下来的页面我会慢慢慢慢的更新上去的！<br/>爱你哦！</strong></h3>
+
 </body>
 </html>
